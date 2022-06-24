@@ -53,6 +53,7 @@ section {
 section.normal {
     background-color: white;
     color: black;
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.247);
 }
 
 section.imagem {
@@ -64,6 +65,7 @@ section.imagem > p {
     display: inline-block;
     background-color: rgba(0, 0, 0, 0.342);
     padding: 10px;
+    border-radius: 3px;
 }
 
 
